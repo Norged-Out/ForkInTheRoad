@@ -105,3 +105,14 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Rider / JetBrains
+.idea/
+
+# Visual Studio user settings
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# VS Code workspace
+*.code-workspace
